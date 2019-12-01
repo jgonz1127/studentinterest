@@ -2017,10 +2017,14 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rJkQhIkLoq {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #232323;
 }
 .cid-rJkQihBrfc {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #232323;
+}
+.cid-rJkQihBrfc .mbr-text,
+.cid-rJkQihBrfc .mbr-section-btn {
+  text-align: left;
 }
 .cid-rJl2KseZ2G .navbar {
   padding: .5rem 0;
